@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CoursesFinder/static/css/main.e2ea127d.css",
+    "main.js": "/CoursesFinder/static/js/main.af105a78.js",
+    "index.html": "/CoursesFinder/index.html",
+    "main.e2ea127d.css.map": "/CoursesFinder/static/css/main.e2ea127d.css.map",
+    "main.af105a78.js.map": "/CoursesFinder/static/js/main.af105a78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2ea127d.css",
+    "static/js/main.af105a78.js"
+  ]
+}
